@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://magen-infosec-6ffb5935.zappy5.app
+https://example.com
 סטארטאפ בצמיחה? מגן מספקת ייעוץ אבטחת מידע לסטארטאפים בדרך לעמידה ברגולציה, הגנה על נתונים ובניית אמון מול לקוחות אנטרפרייז. התחל עכשיו.
 
 ### שירותים
-https://magen-infosec-6ffb5935.zappy5.app/services
+https://example.com/services
 מהערכת סיכונים ועד תוכנית GRC מלאה — שירותי הייעוץ של מגן מותאמים לסטארטאפים בשלבי Seed עד Series B שצריכים אבטחת מידע בלי לגייס CISO במשרה מלאה.
 
 ### אודות
-https://magen-infosec-6ffb5935.zappy5.app/about
+https://example.com/about
 מגן אינה ספק טכני — היא שותפה אסטרטגית לסטארטאפים שמטפלים במידע רגיש. הכירו את הגישה העסקית שלנו לסייבר ואבטחת מידע ואת הצוות שמוביל אותה.
 
 ### צור קשר
-https://magen-infosec-6ffb5935.zappy5.app/contact
+https://example.com/contact
 רוצים לדעת איפה הסטארטאפ שלכם עומד מבחינת אבטחת מידע? צרו קשר עם מגן לשיחת היכרות ללא התחייבות ונבנה יחד את מפת הדרכים הנכונה לעסק שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://magen-infosec-6ffb5935.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://magen-infosec-6ffb5935.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://magen-infosec-6ffb5935.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://magen-infosec-6ffb5935.zappy5.app/contact
-- Endpoint: https://magen-infosec-6ffb5935.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -79,6 +79,6 @@ Magen InfoSec is an Israeli cybersecurity and GRC consulting firm positioned as 
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://magen-infosec-6ffb5935.zappy5.app/sitemap.xml
-- Robots: https://magen-infosec-6ffb5935.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://magen-infosec-6ffb5935.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
