@@ -1,0 +1,84 @@
+# מגן – ייעוץ ואבטחת מידע (Magen InfoSec) — Generative Engine Optimization Map
+
+> Magen InfoSec is an Israeli cybersecurity and GRC consulting firm positioned as a 'management partner' rather than a purely technical security vendor. The brand targets early-stage tech startups (Seed to Series B) that lack a full-time CISO or GRC function but handle sensitive data or face regulatory and enterprise-client compliance demands. The tone is calm, mature, and business-oriented — no jargon, no empty promises — emphasizing practical implementation, long-term partnership, and speaking the language of business leadership. Services include risk assessments, GRC program setup, DPO advisory, and ongoing vCISO/vGRC retainer engagements tailored to startup budgets and growth stages.
+
+---
+
+## Pages
+
+### בית
+https://magen-infosec-6ffb5935.zappy5.app
+סטארטאפ בצמיחה? מגן מספקת ייעוץ אבטחת מידע לסטארטאפים בדרך לעמידה ברגולציה, הגנה על נתונים ובניית אמון מול לקוחות אנטרפרייז. התחל עכשיו.
+
+### שירותים
+https://magen-infosec-6ffb5935.zappy5.app/services
+מהערכת סיכונים ועד תוכנית GRC מלאה — שירותי הייעוץ של מגן מותאמים לסטארטאפים בשלבי Seed עד Series B שצריכים אבטחת מידע בלי לגייס CISO במשרה מלאה.
+
+### אודות
+https://magen-infosec-6ffb5935.zappy5.app/about
+מגן אינה ספק טכני — היא שותפה אסטרטגית לסטארטאפים שמטפלים במידע רגיש. הכירו את הגישה העסקית שלנו לסייבר ואבטחת מידע ואת הצוות שמוביל אותה.
+
+### צור קשר
+https://magen-infosec-6ffb5935.zappy5.app/contact
+רוצים לדעת איפה הסטארטאפ שלכם עומד מבחינת אבטחת מידע? צרו קשר עם מגן לשיחת היכרות ללא התחייבות ונבנה יחד את מפת הדרכים הנכונה לעסק שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://magen-infosec-6ffb5935.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://magen-infosec-6ffb5935.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://magen-infosec-6ffb5935.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://magen-infosec-6ffb5935.zappy5.app/contact
+- Endpoint: https://magen-infosec-6ffb5935.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `full_name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מגן – ייעוץ ואבטחת מידע (Magen InfoSec)
+Magen InfoSec is an Israeli cybersecurity and GRC consulting firm positioned as a 'management partner' rather than a purely technical security vendor. The brand targets early-stage tech startups (Seed to Series B) that lack a full-time CISO or GRC function but handle sensitive data or face regulatory and enterprise-client compliance demands. The tone is calm, mature, and business-oriented — no jargon, no empty promises — emphasizing practical implementation, long-term partnership, and speaking the language of business leadership. Services include risk assessments, GRC program setup, DPO advisory, and ongoing vCISO/vGRC retainer engagements tailored to startup budgets and growth stages.
+
+## Services/Products
+- ייעוץ אבטחת מידע וניהול סיכונים – מיפוי פערים, Risk Assessment ותוכנית פעולה
+- הקמת תוכנית GRC ויישומה – מדיניות, תהליכים ובקרה מותאמים לסטארטאפ
+- vGRC / ליווי ניהולי שוטף – ריטיינר חודשי כולל ישיבות הנהלה, שאלוני אבטחה ומעקב תוכנית עבודה
+
+## Target Audience
+- סטארטאפים טכנולוגיים בישראל בשלבי סיד עד Series B, ללא פונקציית אבטחת מידע או GRC במשרה מלאה, המחזיקים מידע רגיש או כפופים לרגולציה
+- סטארטאפים טכנולוגיים בשלבי סיד עד Series B
+- משרדי עורכי דין ורואי חשבון
+- סטארטאפים בתחום הבריאות
+
+## Industry
+סייבר ואבטחת מידע
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://magen-infosec-6ffb5935.zappy5.app/sitemap.xml
+- Robots: https://magen-infosec-6ffb5935.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://magen-infosec-6ffb5935.zappy5.app/llms-full.txt
